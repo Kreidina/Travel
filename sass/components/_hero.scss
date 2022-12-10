@@ -1,0 +1,76 @@
+.hero {
+  padding: 50px 0 70px;
+}
+.hero-container {
+  display: flex;
+  align-items: center;
+}
+.form {
+  width: 500px;
+}
+.title {
+  font-family: Playfair Display;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 1.25;
+  color: $blue-color;
+}
+.hero__text {
+  position: relative;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.2;
+  color: $blue-color;
+  padding: 20px 0;
+  margin: 42px 0;
+}
+.hero__text::after {
+  content: "";
+  width: 150px;
+  height: 2px;
+  background-color: $blue-color;
+  color: $blue-color;
+  border-radius: 4px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.hero__field {
+  position: relative;
+  //   flex-basis: calc((100% - 2 * 30px) / 2);
+  margin: 15px;
+}
+.hero__form {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -15px;
+}
+.hero__input {
+  height: 50px;
+  width: 215px;
+  border: 0.8px solid #afb0b9;
+  border-radius: 6px;
+}
+.hero__label {
+  position: absolute;
+  top: 21%;
+  left: 13%;
+  font-weight: 400;
+  line-height: 2.1;
+  color: $color-grey;
+}
+.hero__icon {
+  position: absolute;
+  top: 45%;
+  right: 10%;
+}
+.hero__button {
+  font-family: Mulish;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 1.5;
+  color: $primery-white-color;
+  background-color: $accent-color;
+  padding: 11px 60px;
+  margin-top: 50px;
+}

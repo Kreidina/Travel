@@ -1,0 +1,24 @@
+.new-way__container {
+  display: flex;
+  align-items: center;
+}
+.new-way__inform {
+  width: 450px;
+  margin-left: auto;
+}
+.new-way__text {
+  font-family: Mulish;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #7d7987;
+  margin: 20px 0 40px;
+}
+.new-way__button {
+  padding: 18px 35px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1;
+  color: $primery-white-color;
+  background-color: $accent-color;
+}
