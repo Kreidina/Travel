@@ -11,10 +11,6 @@
 <path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M15.151 12l3.285 3.6-3.285 3.6"></path>
 <path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6" d="M32.418 16c0 8.375-6.975 15.2-15.624 15.2s-15.624-6.825-15.624-15.2 6.975-15.2 15.624-15.2c8.649 0 15.624 6.825 15.624 15.2z"></path>
 </symbol>
-<symbol id="previous" viewBox="0 0 34 32">
-<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M18.721 20l-3.285-3.6 3.285-3.6"></path>
-<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6" d="M1.454 16c0-8.375 6.975-15.2 15.624-15.2s15.624 6.825 15.624 15.2-6.975 15.2-15.624 15.2c-8.649 0-15.624-6.825-15.624-15.2z"></path>
-</symbol>
 <symbol id="element-x" viewBox="0 0 32 32">
 <path d="M20.319 29.764l-0.116-9.918c0.050-0.379 0.358-0.725 0.76-0.802l10.073-0.108c0.385 0.050 0.693-0.296 0.76-0.802l-0.046-5.536c0.051-0.379-0.301-0.682-0.815-0.749l-10.073 0.108c-0.385-0.050-0.737-0.353-0.815-0.749l-0.116-9.918c0.050-0.379-0.301-0.682-0.815-0.749l-5.623 0.042c-0.385-0.050-0.693 0.296-0.76 0.802l0.116 9.918c-0.050 0.379-0.358 0.725-0.76 0.802l-10.073 0.108c-0.385-0.050-0.693 0.296-0.76 0.802l0.046 5.536c-0.050 0.379 0.301 0.682 0.815 0.749l10.073-0.108c0.385 0.050 0.737 0.353 0.815 0.749l0.116 9.918c-0.050 0.379 0.301 0.682 0.815 0.749l5.623-0.042c0.402-0.076 0.709-0.423 0.76-0.802z"></path>
 </symbol>
@@ -48,6 +44,9 @@
 </symbol>
 <symbol id="arrow" viewBox="0 0 50 32">
 <path fill="#4a4c53" style="fill: var(--color1, #4a4c53)" d="M10.293 5.237l12.344 12.911c1.543 1.614 3.857 1.614 5.4 0l12.344-12.911c1.543-1.614 3.858-1.614 5.4 0s1.543 4.035 0 5.649l-17.744 18.56c-1.543 1.614-3.857 1.614-5.4 0l-17.744-18.56c-1.543-1.614-1.543-4.035 0-5.649s3.857-1.614 5.401 0z"></path>
+</symbol>
+<symbol id="previous" viewBox="0 0 20 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="5.8182" d="M5.496 2.91l11.959 13.091-11.959 13.091"></path>
 </symbol>
 </defs>
 </svg>
